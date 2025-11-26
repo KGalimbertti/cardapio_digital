@@ -1,27 +1,16 @@
-Kauê Restaurante Web App
+Kauê Restaurante
 
-Este é um projeto de aplicação web para o "Kauê Restaurante". Pela estrutura do index.html, o projeto está sendo desenvolvido como um Single Page Application (SPA), utilizando o framework React para criar a interface do usuário.
+Um projeto de Single Page Application (SPA) desenvolvido com React para simular o cardápio e a navegação de um restaurante.
 
-Todo o conteúdo dinâmico da aplicação será injetado no elemento div com o ID root.
+Tecnologias
+React: Biblioteca JavaScript para construir a interface de usuário.
 
-Tecnologias Chave
+Vite: Ferramenta de build rápida (assumido pelo script type="module" e a estrutura de arquivos).
 
-A análise do index.html e a estrutura de inicialização sugerem o uso das seguintes tecnologias para o desenvolvimento do frontend:
+JavaScript (JSX): Linguagem de programação.
 
-Framework Principal: React (indicado pela estrutura div id="root" e a inclusão do script src/main.jsx).
+CSS: Estilização da aplicação.
 
-Empacotador/Ambiente de Desenvolvimento: Vite ou uma ferramenta similar (dada a sintaxe de módulo type="module" no script principal).
+Visão Geral do Projeto
 
-Linguagem: JavaScript ou TypeScript (utilizando a extensão .jsx no script principal).
-
-Objetivo do Projeto
-
-O objetivo deste aplicativo web é fornecer uma plataforma digital completa para o Kauê Restaurante, incluindo funcionalidades como:
-
-Apresentação do Menu com fotos e descrições.
-
-Funcionalidade de Reservas de mesa online.
-
-Informações de Localização, Contato e Horários de funcionamento.
-
-Galeria de fotos do ambiente e pratos.
+O projeto "Kauê Restaurante" é um front-end simples que apresenta um cardápio filtrável. A aplicação exibe um banner e um sistema de navegação que permite ao usuário filtrar os itens do menu por categoria.
